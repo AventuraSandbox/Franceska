@@ -1,0 +1,15 @@
+{
+  "avoid": [],
+  "app_store": {
+    "name": "Tallyday",
+    "subtitle": "Habits that stick",
+    "promotional_text": "Check in once a day. Keep your streak. No account needed to start.",
+    "keywords": "habit,tracker,streak,routine,reminder,daily",
+    "description": "Write the description in your own words."
+  },
+  "google_play": {
+    "title": "Tallyday: Habit Streaks",
+    "short_description": "Check in daily, keep your streak, stay on track.",
+    "full_description": "Write the full description in your own words."
+  }
+}

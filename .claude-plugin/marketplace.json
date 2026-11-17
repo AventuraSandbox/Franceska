@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "franceska",
+  "description": "The Franceska skill pack for Claude",
+  "owner": {
+    "name": "Franceska"
+  },
+  "plugins": [
+    {
+      "name": "franceska",
+      "description": "Thirteen skills from reference app to production: conductor, explore, plan, design, build, connect, test, compare, validate, brand, review, launch, publish.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

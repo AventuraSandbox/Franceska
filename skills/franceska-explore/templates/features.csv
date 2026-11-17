@@ -1,0 +1,6 @@
+feature,area,priority,original,yours,effort,notes
+Create a habit with a schedule,habits,must,yes,no,M,
+Daily check-in from the home screen,tracking,must,yes,no,S,
+Streak and history view,tracking,should,yes,no,M,
+Reminder notifications,notifications,should,yes,no,M,
+Shared habits with friends,social,could,yes,skip,L,depends on their user network

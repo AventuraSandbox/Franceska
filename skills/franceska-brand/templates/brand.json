@@ -1,0 +1,7 @@
+{
+  "name": "",
+  "avoid": ["Reference app Name", "Its Company"],
+  "domains": ["reference app.example"],
+  "colors": ["#0069ff"],
+  "allow": []
+}

@@ -1,0 +1,3 @@
+# One piece of the original's UI wording per line: buttons, empty states, errors, onboarding, emails.
+# This file is reference only. The audit checks that none of it appears in your code.
+# Lines starting with # are ignored.

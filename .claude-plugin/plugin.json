@@ -1,0 +1,16 @@
+{
+  "name": "franceska",
+  "description": "Franceska: take a reference app to a shippable product with an orchestrator, twelve stage skills, exit gates, a production-readiness checklist and an originality audit. Standard-library Python only.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "product",
+    "saas",
+    "production-readiness",
+    "clean-room",
+    "prototype-to-production"
+  ],
+  "skills": "./skills/"
+}
